@@ -77,5 +77,4 @@ CEO @Man.Ai |Technical Reviewer @Packt |2024 AI Apprentice @Google | AI Speaker(
 ### **Join Us on Devfest Sousse 2024**  
 Come prepared to challenge conventional AI approaches, rethink how we design intelligent systems, and discover how XAI can shape a future where **AI serves everyone**, not just a privileged few.  
 
-# DEVFEST-Sousse-2024-TunisIA-XAI-Unleashed-Bringing-Clarity-to-the-Complex-World-of-AI
-# DEVFEST-Sousse-2024-TunisIA-XAI-Unleashed-Bringing-Clarity-to-the-Complex-World-of-AI
+
