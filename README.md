@@ -1,6 +1,6 @@
 # DEVFEST-Sousse-2024-TunisIA-XAI-Unleashed-Bringing-Clarity-to-the-Complex-World-of-AI-
     
-## Session: **XAI Unleashed – Bringing Clarity to the Complex World of AI**  
+## Session: **XAI Unleashed – Bringing Clarity to the Complex World of AI**   
 
 
 ![XAI Session Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3ohsqbbrpav9UrrvClxENWci0NR6eXpJkA&s)
